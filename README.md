@@ -3,7 +3,7 @@
 This is New Hire Data Entry & Onboarding Process feature by Automation 360 x AARI x IQBot
 
 Environment: Oracle HCM Cloud (Fusion) 
-ps. Require credential to access not for public release
+ps. require credential to access not for public release.
 
 
 We learn that one of the challenging processes that the HR team has to face in almost every month is the New hire - Onboarding process. 

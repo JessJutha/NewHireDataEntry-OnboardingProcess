@@ -18,4 +18,4 @@ The challenge that we found:
 When bot performs new hire data entry and assign asset/property into HCM system (Oracle HCM Cloud) using Recorder action in Automation 360, we ran into some challenges that bot kept failing whether bot cannot find the element/object in the specific web browser or perform the task too fast even before web browser is fully loaded.
 Therefore we added some more Delay action but that cause us some extra minutes until the bot successfully finishes the task. Maybe there's another action or solution to this which we will explore further to improve the effectiveness of this bot and hopefully feature more of AARI capability in the future.
 
-For import Bot, click the lick to download : https://drive.google.com/file/d/17r8_C1FCWuvpBagVhFJSlwwerkIlt-K4/view?usp=sharing
+For import Bot, click the link to download : https://drive.google.com/file/d/17r8_C1FCWuvpBagVhFJSlwwerkIlt-K4/view?usp=sharing
